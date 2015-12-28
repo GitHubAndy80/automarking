@@ -1,7 +1,7 @@
 package com.qianfeng.automarking.util;
 
 /**
- * Í¨ÓÃ¹¤¾ßÀà 
+ * é€šç”¨å·¥å…·ç±»
  * @author HuangGuiZhao
  *
  */
