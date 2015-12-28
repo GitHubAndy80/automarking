@@ -1,7 +1,7 @@
 package com.qianfeng.automarking.util;
 
 /**
- * 通用工具类
+ * 通用工具类 
  * @author HuangGuiZhao
  *
  */
